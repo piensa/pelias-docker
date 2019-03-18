@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/run/current-system/sw/bin/bash
 set -e
 
 # OSX comes bundled with versions of readlink, sed, parallel etc which are not
